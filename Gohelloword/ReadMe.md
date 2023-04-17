@@ -8,13 +8,23 @@ To run this program, you must have Go installed on your computer. If you don't h
 
 Once you have Go installed, follow these steps:
 
-Clone this repository or download the source code.
+Clone the repository to your local machine:
 
-Open a terminal or command prompt and navigate to the directory where you saved the source code.
+```
+git clone https://github.com/SidharthSasikumar/golang.git
+```
+
+Change into the project directory:
+
+```
+cd Gohelloword
+```
 
 Run the following command to compile and run the program:
 
-`go run hello.go`
+```
+go run hello.go
+```
 
 
 You should see "Hello, World!" printed to the console.

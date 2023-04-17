@@ -8,9 +8,22 @@ To run the examples, you need to have Go installed on your machine. You can down
 
 ### Usage
 
-To run the examples, navigate to this directory of this repository and execute the following commands:
+Clone the repository to your local machine:
 
-`go run goroutines.go`
+```
+git clone https://github.com/SidharthSasikumar/golang.git
+```
+
+Change into the project directory:
+
+```
+cd Goroutines
+```
+
+Run the following command to compile and run the program:
+```
+go run goroutines.go
+```
 
 This will execute the `goroutines.go` program, which demonstrates how to create a simple goroutine in Go.
 
